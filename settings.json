@@ -1,0 +1,50 @@
+{
+  "workbench.activityBar.location": "top",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "files.autoSave": "afterDelay",
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "explorer.confirmDelete": false,
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "editor.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "workbench.list.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "editor.cursorBlinking": "phase",
+  "terminal.integrated.gpuAcceleration": "on",
+  "editor.experimentalGpuAcceleration": "on",
+  "editor.scrollbar.horizontal": "visible",
+  "workbench.list.horizontalScrolling": true,
+  "security.allowedUNCHosts": ["wsl.localhost"],
+  "[rust]": {
+    "editor.defaultFormatter": "jinxdash.prettier-rust"
+  },
+  "window.menuBarVisibility": "toggle",
+  "window.commandCenter": false,
+  "background.fullscreen": {
+    "images": [
+      // ======= CHANGE THIS URL TO THE IMAGE =======
+      "file:///C:/Users/ForLoop/Desktop/wallpapers/blur2.png" 
+      // ======= CHANGE THIS URL TO THE IMAGE =======
+    ],
+    "opacity": 0.2,
+    "size": "cover",
+    "position": "center",
+    "interval": 0,
+    "random": false
+  },
+  "window.titleSeparator": " // ",
+  "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}",
+  "workbench.startupEditor": "none",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "workbench.colorTheme": "Ayu Monokai",
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorBlinking": true,
+  "editor.fontFamily": "geist mono",
+  "terminal.integrated.fontWeight": "normal",
+  "workbench.sideBar.location": "right"
+}
